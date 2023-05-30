@@ -1,57 +1,46 @@
 # Portfólio DNC 💼
 
-### Projeto criado para o desenvolvimento de um portfólio fictício. 
-### Atividade proposta na escola DNC. 
+### Índice
+<ul>
+  <a href="#descrição"><li>Descrição</li></a>
+  <a href="#interfaces"><li>Interfaces</li></a>
+  <a href="#estrutura-do-projeto"><li>Estrutura do projeto</li></a>
+  <a href="#deployment-"><li>Configuração de Desenvolvimento</li></a>
+  <a href="#como-rodar"><li>Como rodar</li></a>
+</ul>
+
+### Descrição
+Projeto criado para o desenvolvimento de um portfólio fictício, Task da Escola DNC. 
 
 <hr>
 
-## Modo Desktop
+### Interfaces
+Modo Desktop 💻
 
 ![desktop](https://user-images.githubusercontent.com/115199808/223804732-857c8fae-1524-4885-b684-d92f769b8214.png)
 
 <hr> 
 
-## Parte 1 - Estruturação do header + menu (Desktop)
-
-### Criação da estrutura via HTML5 e estilização via CSS3.
-
-![headerMenuPortifolio](https://user-images.githubusercontent.com/115199808/223805593-213bd6e9-e74b-46ed-9f11-9efb3713cab6.gif)
-
-<hr>
-
-## Parte 2 - Estruturação da seção "Meus serviços" + Formulário (Desktop)
-
-### Criação da estrutura via HTML5 e estilização via CSS3. Aplicado um efeito "hover" no botão e o "focus" no input.
-
-![formPortfolio](https://user-images.githubusercontent.com/115199808/223806185-fe8c2190-f258-4746-b7e8-edf31883993b.gif)
-
-<hr>
-
-## Parte 3 - Estruturação da seção "Portfólio" (Desktop)
-
-### Criação da estrutura via HTML5 e estilização via CSS3. Aplicado um efeito "hover/transform" em cada card.
-
-![cardPortfolio](https://user-images.githubusercontent.com/115199808/223806872-96668052-304f-4dbe-bb74-d711348829e8.gif)
-
-<hr>
-
-# Link de Acesso ao Projeto (Vercel)
-
-https://portfolio-dnc-pi.vercel.app
-
-<hr>
-
-# IDE Utilizada
-
-<div> 
-<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-</div>
-
-<hr>
-
-# Tecnologias Utilizadas
-<div style="display: inline_block"><br>
+# Estrutura do projeto
+## Estrutura 🏗 e Estilização 👨‍🎨
+### Tecnologias Utilizadas
+<div style="display: inline_block">
   <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">-
   <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 </div>
 
+### IDE Utilizada
+
+<div> 
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+</div>
+
+<hr>
+
+## Deployment ☁
+
+Deploy realizado pela plataforma Vercel. Clique no botão abaixo e acesse o projeto.<br>
+[![portfolio](https://img.shields.io/badge/-CLIQUE%20AQUI-yellowgreen)](https://portfolio-dnc-pi.vercel.app)
+
+## Como rodar
+Clone esse repositório em um diretório na sua máquina local, abra o diretório utilizando a sua IDE de preferência e/ou abra o arquivo ```.hmtl``` em seu navegador.
